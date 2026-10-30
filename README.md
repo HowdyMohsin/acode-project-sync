@@ -8,7 +8,7 @@
 
 Keep your Acode Terminal Public projects and a second folder synchronized—whether you work on HTML, CSS, JavaScript, React, Next.js, or other source-code projects.
 
-![Version](https://img.shields.io/badge/version-4.4.3-157cf5?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Acode%20%7C%20Android-0d8668?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-475569?style=flat-square) ![Sync](https://img.shields.io/badge/sync-two--way-0ea5e9?style=flat-square)
+![Version](https://img.shields.io/badge/version-4.4.4-157cf5?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Acode%20%7C%20Android-0d8668?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-475569?style=flat-square) ![Sync](https://img.shields.io/badge/sync-two--way-0ea5e9?style=flat-square)
 
 [Installation](#installation) · [Features](#features) · [Safety](#safety-first) · [FAQ](#frequently-asked-questions) · [Report an issue](https://github.com/HowdyMohsin/acode-project-sync/issues)
 

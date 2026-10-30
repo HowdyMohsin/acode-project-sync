@@ -1,7 +1,7 @@
 {
   "id": "com.rankaura.safeprojectsync",
   "name": "Project Sync for Acode",
-  "version": "4.4.3",
+  "version": "4.4.4",
   "main": "main.js",
   "minVersionCode": 290,
   "readme": "readme.md",

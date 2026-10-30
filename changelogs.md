@@ -1,3 +1,11 @@
+## 4.4.4 — Folder selection persistence
+
+- Store Folder A and Folder B selections in private plugin storage, instead of unknown Acode settings keys.
+- Restore selections and sync ledgers before initializing the sidebar after app restart.
+- Keep a second persistent copy when browser local storage is available.
+- Surface storage failures rather than silently saying paths are saved.
+- Preserve existing UI and synchronization behavior.
+
 # Changelog
 
 ## 4.4.3 — Dot-file exclusions and input contrast

@@ -1,5 +1,16 @@
 # Changelog
 
+## 4.4.3 — Dot-file exclusions and input contrast
+
+- Skip all files and folders whose names start with `.` by default, at every directory level.
+- Added a Settings → Advanced exclusions toggle to opt into scanning other dot-prefixed names; built-in protected exclusions still apply.
+- Existing copies of excluded files are **not** removed by the exclusion change.
+- Force readable light input text, placeholders, caret, and focused fields across Acode themes and Android WebViews.
+- Fix text-field edits redrawing the panel on blur, which could interrupt a Save tap.
+- Kept the existing plugin ID, configuration storage, recovery database, and two-way sync behavior.
+
+# Changelog
+
 ## 4.4.2 — Public repository preparation
 
 - Updated public-facing plugin name to **Project Sync for Acode** for easier discovery.

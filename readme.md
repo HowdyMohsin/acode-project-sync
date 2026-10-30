@@ -18,3 +18,7 @@ Sync projects between Terminal Public and any second folder you authorize in Aco
 **Developer:** Mohsin Ali — MERN Stack Developer & JavaScript Specialist  
 **Source:** https://github.com/HowdyMohsin/acode-project-sync  
 **Portfolio:** https://mohsin-ali--portfolio.vercel.app/
+
+## Hidden files and folders
+
+By default the scanner skips files and folders beginning with `.` anywhere under the selected roots (for example `.acode-snippets`, `.local`, `.npm`, `.bashrc`). Settings → Advanced exclusions has an opt-out checkbox. Some safety exclusions such as `.git` and `.env` always remain active. Excluded files already present on storage are not deleted.

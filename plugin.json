@@ -1,0 +1,32 @@
+{
+  "id": "com.rankaura.safeprojectsync",
+  "name": "Project Sync for Acode",
+  "version": "4.4.2",
+  "main": "main.js",
+  "minVersionCode": 290,
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "changelogs": "changelogs.md",
+  "license": "MIT",
+  "price": 0,
+  "keywords": [
+    "acode",
+    "acode plugin",
+    "project sync",
+    "folder sync",
+    "two-way sync",
+    "file sync",
+    "android",
+    "local sync",
+    "react",
+    "nextjs",
+    "backup"
+  ],
+  "repository": "https://github.com/HowdyMohsin/acode-project-sync",
+  "author": {
+    "name": "Mohsin Ali",
+    "url": "https://mohsin-ali--portfolio.vercel.app/",
+    "github": "HowdyMohsin"
+  },
+  "description": "Two-way local project folder sync for Acode on Android. Sync source files, preview changes, protect conflicts and restore backups."
+}
